@@ -1,5 +1,5 @@
 // cerner_2tothe5th_2022
-package cerner.programmerDay.event;
+package cerner.programmersDay.event;
 
 public class FibonacciSeries{
     public boolean printFibonacciNumbers(int tremCount) {
