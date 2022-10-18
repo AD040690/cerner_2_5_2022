@@ -1,7 +1,7 @@
 # cerner_2tothe5th_2022
-# *************************************Selection sort in Python******************************************
 
-#sorting by finding min_index
+# *************************************Selection sort in Python******************************************
+# sorting by finding min_index
 def selectionSort(unsortedArray):
     arraySize = len(unsortedArray)
     for outerLoop in range(arraySize):
